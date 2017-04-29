@@ -41,7 +41,7 @@
     padding-left : 10px !important ;
 }
 
-.dropdown__content Åo
+.dropdown__content {
     z-index: 1000; !important;
     position : absolute !important ;
 }
