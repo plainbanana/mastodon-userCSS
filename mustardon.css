@@ -8,7 +8,7 @@
 }
 
 .emoji-dialog {
-    z-index : 1 !important  ;
+    z-index : 1000 !important  ;
     position : fixed !important ;
     top : 60px !important ;
     left : 5px !important ;
@@ -27,10 +27,10 @@
 
 .column:nth-child(3) {
     z-index: 0 !important;
-    position : absolute !important ;
+    position : fixed !important ;
     width : 25% !important ;
-    height : 100% !important ;
     top : 510px !important ;
+    height : 100% !important ;
     left : 0% !important ;
     padding-left : 10px !important ;
 }
