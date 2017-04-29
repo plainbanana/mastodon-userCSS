@@ -1,0 +1,47 @@
+.drawer {
+    width : 25% !important ;
+    height :415px !important ;
+}
+
+.column {
+    flex : auto !important ;
+}
+
+.emoji-dialog {
+    z-index : 1 !important  ;
+    position : fixed !important ;
+    top : 60px !important ;
+    left : 5px !important ;
+    width : 280px !important ; 
+    margin-left : 21% !important ;
+    height : 90% !important ;
+}
+
+.compose-form__buttons {
+    width : 110px !important ;
+}
+
+.privacy-dropdown {
+    z-index : 1 !important  ;
+    position : fixed !important ;
+    left : 70px !important ;
+}
+
+.text-icon-button {
+    position : fixed !important ;
+    left : 110px !important ;
+}
+
+.column:nth-child(3) {
+    z-index: 0; !important;
+    position : fixed !important ;
+    width : 25% !important ;
+    margin-top : 400px !important ;
+    height : 100% ;
+    padding-left : 10px !important ;
+}
+
+.dropdown__content Åo
+    z-index: 1000; !important;
+    position : absolute !important ;
+}
